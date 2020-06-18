@@ -1,7 +1,7 @@
 # 02443-SimSolarEnergy
 Final Project for course in Stochastic Simulation
 
-Problem identification
++ Problem identification
 + Goal/purpose
 + System analysis and data gathering
 + System syntesis - model formulation
