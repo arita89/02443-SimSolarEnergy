@@ -11,6 +11,7 @@ pandas = "*"
 scipy = "*"
 ipykernel = "*"
 jupyter = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
